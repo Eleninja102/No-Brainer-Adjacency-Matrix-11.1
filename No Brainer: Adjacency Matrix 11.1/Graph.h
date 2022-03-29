@@ -10,6 +10,7 @@ using namespace std;
 template <typename Type>
 class Graph;
 
+
 template <typename Type>
 ostream& operator << (ostream & out, const Graph<Type> &g);
 
